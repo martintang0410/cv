@@ -1,0 +1,16 @@
+body{
+    background-color: CEFFBB;
+}
+
+hr{
+    height: 2px;
+    background-color: black;
+}
+
+#first-hr{
+    height: 2px;
+    background-color: red;
+}
+#second-hr{
+    background-color: orange;
+}
