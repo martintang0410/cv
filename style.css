@@ -8,14 +8,6 @@ hr{
     border-top: dotted;
 }
 
-
-#second-hr{
-    background-color: orange;
-}
-#ed{
-    color: blue;
-}
-
 #div1{
     background-color: rgb(226, 248, 207);
 }
@@ -29,4 +21,12 @@ footer{
 footer p{
     font-size: 25;
     font-style: oblique;
+}
+
+#car{
+    display:none;
+}
+
+#leo{
+    display: none;
 }
