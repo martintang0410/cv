@@ -27,6 +27,25 @@ footer p{
     display:none;
 }
 
-#leo{
+#header{
+    text-align: center;
+}
+#click{
     display: none;
+    height: 50px;
+    width: 150px;
+    font-size: large;
+    font-weight:bold ;
+    margin-left: 45%;
+    border-color: rgb(146, 245, 133);
+    border-radius: 100px;
+}
+
+#pokemon1{
+    margin-left: 10%;
+}
+
+#car{
+    margin: 0 auto 0 auto;
+    opacity: 0;
 }
